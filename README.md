@@ -1,6 +1,6 @@
 # Janista Sihirunwong
 
-<img src="./img/IMG_1072.jpg" style="width: 280px; height: 200px; border-radius: 60%">
+<img src="https://github.com/Janistamail/Janistamail/blob/main/img/IMG_1072.jpg?raw=true" style="width: 280px; height: 200px; border-radius: 60%">
 
 ## About me
 
