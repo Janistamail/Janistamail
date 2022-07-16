@@ -8,6 +8,8 @@ Hello! I'm Janista 🥰🌷. I really love and want to be a backend developer�
 
 ## Skills
 
+You can check out my portfolio [here](link)
+
 ### Frontend
 
 - HTML-CSS
@@ -96,5 +98,3 @@ Hello! I'm Janista 🥰🌷. I really love and want to be a backend developer�
             <img src="./img/line.png"  width="40" height="40"/> </a>
 
 </p>
-
-[My port](link)
