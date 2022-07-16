@@ -4,7 +4,7 @@
 
 # About me
 
-Hello! I'm Janista 🥰🌷. I really love and want to be a backend developer🌹. But for full stack developer is good for me as well. I'm a self-motivated, hardworking person and never ever stop learning a new thing.
+Hello there! I'm Janista 🥰🌷. I really love and want to be a backend developer🌹. And for full stack developer is good for me as well. I'm a self-motivated, hardworking person and I never stop learning a new thing.
 
 # Education
 
