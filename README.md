@@ -45,7 +45,7 @@ Hello! I'm Janista 🥰🌷. I really love and want to be a backend developer�
       height="80"
     /> 
   </a>
-  </p>
+  </p><br/>
 
 <h1 align="center">✨ FRONT-END</h1>
 
@@ -64,7 +64,7 @@ Hello! I'm Janista 🥰🌷. I really love and want to be a backend developer�
             <img src="./img/antd.png" width="80" height="80"/> </a>
     <a target="_blank" rel="noreferrer">
             <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="80" height="80"/> </a>
-</p>
+</p><br/>
 
 <h1 align="center">✨ BACK-END</h1>
 <p align="center">
@@ -80,7 +80,7 @@ Hello! I'm Janista 🥰🌷. I really love and want to be a backend developer�
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="120" height="120"/> </a>
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="120" height="120"/> </a> 
-</p>
+</p><br/>
 
 <h1 align="center">✨ TOOLS</h1>
 
