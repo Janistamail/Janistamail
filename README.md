@@ -95,7 +95,7 @@ You can check out my portfolio [here](link)
      <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="100" height="100"/> </a> 
     <a target="_blank" rel="noreferrer"> 
-            <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"  width="100" height="110020"/> </a>
+            <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"  width="100" height="100"/> </a>
     <a target="_blank" rel="noreferrer"> 
             <img src="./img/line.png"  width="100" height="100"/> </a>
 
