@@ -6,6 +6,16 @@
 
 Hello! I'm Janista 🥰🌷. I really love and want to be a backend developer🌹. But for full stack developer is good for me as well. I'm a self-motivated, hardworking person and never ever stop learning a new thing.
 
+## Education
+
+- Civil Aviation Training Center <br/>
+  🎓💛 Avionics engineering transfer (Bachelor's degree)<br/>
+
+- Dhurakij Pundit University (studying)<br/>
+  🎓🧡 Computer engineering (Master's degree)<br/>
+- Developer Camp<br/>
+  🎓💚 Full stack web application developer<br/>
+
 ## Skills
 
 You can check out my portfolio [here](link)
@@ -41,19 +51,7 @@ You can check out my portfolio [here](link)
   </a>
   </p>
 
-## Education
-
-- Civil Aviation Training Center <br/>
-  🎓💛 Avionics engineering transfer (Bachelor's degree)<br/>
-
-- Dhurakij Pundit University (studying)<br/>
-  🎓🧡 Computer engineering (Master's degree)<br/>
-- Developer Camp<br/>
-  🎓💚 Full stack web application developer<br/>
-
-## Skills
-
-### Front-End
+## Front-End
 
 <p align="center">
      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -72,7 +70,7 @@ You can check out my portfolio [here](link)
             <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="80" height="80"/> </a>
 </p>
 
-### Back-End
+## Back-End
 
 <p align="center">
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
@@ -89,7 +87,7 @@ You can check out my portfolio [here](link)
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="120" height="120"/> </a> 
 </p>
 
-### Tools
+## Tools
 
 <p align="center">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
