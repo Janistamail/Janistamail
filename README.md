@@ -58,51 +58,43 @@ Hello! I'm Janista 🥰🌷. I really love and want to be a backend developer�
             <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-    <a target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/> </a>
     <a target="_blank" rel="noreferrer">
             <img src="./img/antd.png" width="40" height="40"/> </a>
-
-            <!-- <a target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/> </a>
-
-            <a target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/> </a> -->
-
+    <a target="_blank" rel="noreferrer">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/> </a>
 </p>
 
 ### Back-End
 
 <p align="center">
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-    <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a> 
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-      
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/> </a> 
+    <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="60"/> </a> 
+    <a target="_blank" rel="noreferrer">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" width=60" height="60"/> </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 </p>
 
 ### Tools
 
 <p align="center">
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
             <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
             <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
      <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-     
+    <a target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"  width="40" height="40"/> </a>
+    <a target="_blank" rel="noreferrer"> 
+            <img src="./img/line.png"  width="40" height="40"/> </a>
+
 </p>
 
 [My port](link)
