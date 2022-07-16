@@ -82,7 +82,7 @@ Hello! I'm Janista 🥰🌷. I really love and want to be a backend developer�
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="120" height="120"/> </a> 
 </p><br/>
 
-<h1 align="center">✨ TOOLS</h1>
+<h1 align="center">✨ OTHERS</h1>
 <p align="center">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
             <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/> </a> 
