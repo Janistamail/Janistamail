@@ -14,7 +14,7 @@ Hello! I'm Janista 🥰🌷. I really love and want to be a backend developer�
 - Dhurakij Pundit University (studying)<br/>
   🎓🧡 Computer engineering (Master's degree)<br/>
 - Developer Camp<br/>
-  🎓💚 Full stack web application developer<br/>
+  🎓💚 Full stack web application developer<br/><br/>
 
 <h1 align="center">✨ PROGRAMMING LANGUAGE</h1>
 <p align="center">
@@ -83,7 +83,6 @@ Hello! I'm Janista 🥰🌷. I really love and want to be a backend developer�
 </p><br/>
 
 <h1 align="center">✨ TOOLS</h1>
-
 <p align="center">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
             <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/> </a> 
