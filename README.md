@@ -10,6 +10,45 @@ Hello! I'm Janista 🥰🌷. I really love and want to be a backend developer�
 
 You can check out my portfolio [here](link)
 
+<h1 align="center">✨ PROGRAMMING LANGUAGE</h1>
+<p align="center">
+  
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+      alt="c"
+      width="80"
+      height="80"
+    />
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+      alt="cplusplus"
+      width="80"
+      height="80"
+    />
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="python"
+     width="80"
+      height="80"
+    />
+  </a>
+    <a 
+     href="https://www.java.com" 
+     target="_blank" > 
+    <img 
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
+         alt="java"
+         width="80"
+      height="80"
+    /> 
+  </a>
+  </p>
+
 ### Frontend
 
 - HTML-CSS
