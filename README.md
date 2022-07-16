@@ -43,13 +43,13 @@ You can check out my portfolio [here](link)
 
 ## Education
 
-- Civil Aviation Training Center
-  🎓💛 Avionics engineering transfer (Bachelor's degree)
+- Civil Aviation Training Center <br/>
+  🎓💛 Avionics engineering transfer (Bachelor's degree)<br/>
 
-- Dhurakij Pundit University (studying)
-  🎓🧡 Computer engineering (Master's degree)
-- Developer Camp
-  🎓💚 Full stack web application developer
+- Dhurakij Pundit University (studying)<br/>
+  🎓🧡 Computer engineering (Master's degree)<br/>
+- Developer Camp<br/>
+  🎓💚 Full stack web application developer<br/>
 
 ## Skills
 
