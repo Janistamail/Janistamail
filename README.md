@@ -89,14 +89,14 @@ You can check out my portfolio [here](link)
 
 <p align="center">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="100" height="100"/> </a> 
+            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/> </a> 
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="100" height="100"/> </a> 
+            <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="80" height="80"/> </a> 
      <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="100" height="100"/> </a> 
+            <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="80" height="80"/> </a> 
     <a target="_blank" rel="noreferrer"> 
-            <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"  width="100" height="100"/> </a>
+            <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"  width="80" height="80"/> </a>
     <a target="_blank" rel="noreferrer"> 
-            <img src="./img/line.png"  width="100" height="100"/> </a>
+            <img src="./img/line.png"  width="80" height="80"/> </a>
 
 </p>
