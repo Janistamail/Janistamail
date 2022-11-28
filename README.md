@@ -1,14 +1,5 @@
 # Janista Sihirunwong
 
-<img src="https://github.com/Janistamail/Janistamail/blob/main/img/IMG_1072.jpg?raw=true" style="width: 280px; height: 200px; border-radius: 60%">
-
-# Education
-
-- Civil Aviation Training Center <br/>
-  🎓💛 Avionics engineering transfer (Bachelor's degree)<br/>
-- Dhurakij Pundit University (studying)<br/>
-  🎓🧡 Computer engineering (Master's degree)<br/>
-
 <h1 align="center">✨ PROGRAMMING LANGUAGE</h1>
 <p align="center">
   
