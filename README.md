@@ -2,19 +2,12 @@
 
 <img src="https://github.com/Janistamail/Janistamail/blob/main/img/IMG_1072.jpg?raw=true" style="width: 280px; height: 200px; border-radius: 60%">
 
-# About me
-
-Hello there! I'm Janista 🥰🌷. I really love and want to be a backend developer🌹. And for full stack developer is good for me as well. I'm a self-motivated, hardworking person and I never stop learning a new thing.
-
 # Education
 
 - Civil Aviation Training Center <br/>
   🎓💛 Avionics engineering transfer (Bachelor's degree)<br/>
-
 - Dhurakij Pundit University (studying)<br/>
   🎓🧡 Computer engineering (Master's degree)<br/>
-- Developer Camp<br/>
-  🎓💚 Full stack web application developer<br/><br/>
 
 <h1 align="center">✨ PROGRAMMING LANGUAGE</h1>
 <p align="center">
